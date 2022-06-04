@@ -13,6 +13,6 @@ def max_rain_trapping(arr,n):
   return ans 
 
 
-arr= [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]
+arr= [3,0,0,2,0,4]
 n = len(arr)
 print(max_rain_trapping(arr,n))
